@@ -1,0 +1,3 @@
+source;share/primeiro_pacote/hook/pythonpath.ps1
+source;share/primeiro_pacote/hook/pythonpath.dsv
+source;share/primeiro_pacote/hook/pythonpath.sh

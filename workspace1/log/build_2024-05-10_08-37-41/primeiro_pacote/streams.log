@@ -1,0 +1,35 @@
+[0.362s] Invoking command in '/home/igor/Desktop/ROS2/workspace1/src/primeiro_pacote': PYTHONPATH=/home/igor/Desktop/ROS2/workspace1/build/primeiro_pacote/prefix_override:/home/igor/Desktop/ROS2/workspace1/install/primeiro_pacote/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/primeiro_pacote build --build-base /home/igor/Desktop/ROS2/workspace1/build/primeiro_pacote/build install --record /home/igor/Desktop/ROS2/workspace1/build/primeiro_pacote/install.log --single-version-externally-managed install_data
+[0.501s] running egg_info
+[0.501s] creating ../../build/primeiro_pacote/primeiro_pacote.egg-info
+[0.501s] writing ../../build/primeiro_pacote/primeiro_pacote.egg-info/PKG-INFO
+[0.501s] writing dependency_links to ../../build/primeiro_pacote/primeiro_pacote.egg-info/dependency_links.txt
+[0.501s] writing entry points to ../../build/primeiro_pacote/primeiro_pacote.egg-info/entry_points.txt
+[0.501s] writing requirements to ../../build/primeiro_pacote/primeiro_pacote.egg-info/requires.txt
+[0.501s] writing top-level names to ../../build/primeiro_pacote/primeiro_pacote.egg-info/top_level.txt
+[0.501s] writing manifest file '../../build/primeiro_pacote/primeiro_pacote.egg-info/SOURCES.txt'
+[0.502s] reading manifest file '../../build/primeiro_pacote/primeiro_pacote.egg-info/SOURCES.txt'
+[0.503s] writing manifest file '../../build/primeiro_pacote/primeiro_pacote.egg-info/SOURCES.txt'
+[0.503s] running build
+[0.503s] running build_py
+[0.503s] creating /home/igor/Desktop/ROS2/workspace1/build/primeiro_pacote/build
+[0.503s] creating /home/igor/Desktop/ROS2/workspace1/build/primeiro_pacote/build/lib
+[0.503s] creating /home/igor/Desktop/ROS2/workspace1/build/primeiro_pacote/build/lib/primeiro_pacote
+[0.503s] copying primeiro_pacote/__init__.py -> /home/igor/Desktop/ROS2/workspace1/build/primeiro_pacote/build/lib/primeiro_pacote
+[0.503s] running install
+[0.503s] running install_lib
+[0.503s] creating /home/igor/Desktop/ROS2/workspace1/install/primeiro_pacote/lib/python3.10/site-packages/primeiro_pacote
+[0.503s] copying /home/igor/Desktop/ROS2/workspace1/build/primeiro_pacote/build/lib/primeiro_pacote/__init__.py -> /home/igor/Desktop/ROS2/workspace1/install/primeiro_pacote/lib/python3.10/site-packages/primeiro_pacote
+[0.504s] byte-compiling /home/igor/Desktop/ROS2/workspace1/install/primeiro_pacote/lib/python3.10/site-packages/primeiro_pacote/__init__.py to __init__.cpython-310.pyc
+[0.504s] running install_data
+[0.504s] creating /home/igor/Desktop/ROS2/workspace1/install/primeiro_pacote/share
+[0.504s] creating /home/igor/Desktop/ROS2/workspace1/install/primeiro_pacote/share/ament_index
+[0.504s] creating /home/igor/Desktop/ROS2/workspace1/install/primeiro_pacote/share/ament_index/resource_index
+[0.504s] creating /home/igor/Desktop/ROS2/workspace1/install/primeiro_pacote/share/ament_index/resource_index/packages
+[0.504s] copying resource/primeiro_pacote -> /home/igor/Desktop/ROS2/workspace1/install/primeiro_pacote/share/ament_index/resource_index/packages
+[0.504s] creating /home/igor/Desktop/ROS2/workspace1/install/primeiro_pacote/share/primeiro_pacote
+[0.504s] copying package.xml -> /home/igor/Desktop/ROS2/workspace1/install/primeiro_pacote/share/primeiro_pacote
+[0.504s] running install_egg_info
+[0.505s] Copying ../../build/primeiro_pacote/primeiro_pacote.egg-info to /home/igor/Desktop/ROS2/workspace1/install/primeiro_pacote/lib/python3.10/site-packages/primeiro_pacote-0.0.0-py3.10.egg-info
+[0.505s] running install_scripts
+[0.517s] writing list of installed files to '/home/igor/Desktop/ROS2/workspace1/build/primeiro_pacote/install.log'
+[0.532s] Invoked command in '/home/igor/Desktop/ROS2/workspace1/src/primeiro_pacote' returned '0': PYTHONPATH=/home/igor/Desktop/ROS2/workspace1/build/primeiro_pacote/prefix_override:/home/igor/Desktop/ROS2/workspace1/install/primeiro_pacote/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/primeiro_pacote build --build-base /home/igor/Desktop/ROS2/workspace1/build/primeiro_pacote/build install --record /home/igor/Desktop/ROS2/workspace1/build/primeiro_pacote/install.log --single-version-externally-managed install_data

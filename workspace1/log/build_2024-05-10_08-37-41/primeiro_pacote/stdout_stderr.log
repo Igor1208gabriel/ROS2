@@ -1,0 +1,33 @@
+running egg_info
+creating ../../build/primeiro_pacote/primeiro_pacote.egg-info
+writing ../../build/primeiro_pacote/primeiro_pacote.egg-info/PKG-INFO
+writing dependency_links to ../../build/primeiro_pacote/primeiro_pacote.egg-info/dependency_links.txt
+writing entry points to ../../build/primeiro_pacote/primeiro_pacote.egg-info/entry_points.txt
+writing requirements to ../../build/primeiro_pacote/primeiro_pacote.egg-info/requires.txt
+writing top-level names to ../../build/primeiro_pacote/primeiro_pacote.egg-info/top_level.txt
+writing manifest file '../../build/primeiro_pacote/primeiro_pacote.egg-info/SOURCES.txt'
+reading manifest file '../../build/primeiro_pacote/primeiro_pacote.egg-info/SOURCES.txt'
+writing manifest file '../../build/primeiro_pacote/primeiro_pacote.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/igor/Desktop/ROS2/workspace1/build/primeiro_pacote/build
+creating /home/igor/Desktop/ROS2/workspace1/build/primeiro_pacote/build/lib
+creating /home/igor/Desktop/ROS2/workspace1/build/primeiro_pacote/build/lib/primeiro_pacote
+copying primeiro_pacote/__init__.py -> /home/igor/Desktop/ROS2/workspace1/build/primeiro_pacote/build/lib/primeiro_pacote
+running install
+running install_lib
+creating /home/igor/Desktop/ROS2/workspace1/install/primeiro_pacote/lib/python3.10/site-packages/primeiro_pacote
+copying /home/igor/Desktop/ROS2/workspace1/build/primeiro_pacote/build/lib/primeiro_pacote/__init__.py -> /home/igor/Desktop/ROS2/workspace1/install/primeiro_pacote/lib/python3.10/site-packages/primeiro_pacote
+byte-compiling /home/igor/Desktop/ROS2/workspace1/install/primeiro_pacote/lib/python3.10/site-packages/primeiro_pacote/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/igor/Desktop/ROS2/workspace1/install/primeiro_pacote/share
+creating /home/igor/Desktop/ROS2/workspace1/install/primeiro_pacote/share/ament_index
+creating /home/igor/Desktop/ROS2/workspace1/install/primeiro_pacote/share/ament_index/resource_index
+creating /home/igor/Desktop/ROS2/workspace1/install/primeiro_pacote/share/ament_index/resource_index/packages
+copying resource/primeiro_pacote -> /home/igor/Desktop/ROS2/workspace1/install/primeiro_pacote/share/ament_index/resource_index/packages
+creating /home/igor/Desktop/ROS2/workspace1/install/primeiro_pacote/share/primeiro_pacote
+copying package.xml -> /home/igor/Desktop/ROS2/workspace1/install/primeiro_pacote/share/primeiro_pacote
+running install_egg_info
+Copying ../../build/primeiro_pacote/primeiro_pacote.egg-info to /home/igor/Desktop/ROS2/workspace1/install/primeiro_pacote/lib/python3.10/site-packages/primeiro_pacote-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/igor/Desktop/ROS2/workspace1/build/primeiro_pacote/install.log'
