@@ -6,11 +6,11 @@ Neles, é possível construir os códigos e trabalhar com o ambiente ROS. É lá
 
 1. [build](build):
     1. Build é o diretório onde arquivos intermediários para a construção dos pacotes estão localizados. Para cada pacote na área de trabalho raíz, há uma subpasta dentro de build
-2. [install](install/):
+2. [install](install):
     1. A pasta install é onde estão localizados os arquivos de instalação, executáveis, e a fonte do workspace. Por padrão, cada pacote na área de trabalho raíz terá uma subpasta dentro de install.
-3. [log](/log):
+3. [log](log):
     1. Diretório onde ficam os registros das execuções de pacotes ROS
-4. [src](/src):
+4. [src](src):
     1. O único diretório onde vamos trabalhar. É onde ficam os códigos-fonte dos pacotes, informações de build, pontos de entrada e mais. 
 
 ### Como configurar o workspace:
